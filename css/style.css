@@ -21,7 +21,7 @@ a
 {
     text-decoration: none;
 
-    color: #14c0c9;
+    color: #85a6c6;
 }
 a:visited
 {
@@ -145,7 +145,7 @@ section h2
 
 #skills
 {
-    background-color: #afdeca;
+    background-color: #DBCEBF;
 }
 #skills .container
 {
@@ -187,14 +187,14 @@ section h2
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
-    background-color: #14c0c9;
+    background-color: #85a6c6;
 }
 #skills h3
 {
     font-size: 2.4rem;
     font-weight: bold;
     margin-bottom: 10px;
-    color: #14c0c9;
+    color: #85a6c6;
 }
 #works
 {
@@ -262,7 +262,7 @@ section h2
     -webkit-border-radius: 4px;
        -moz-border-radius: 4px;
             border-radius: 4px;
-    background-color: #14c0c9;
+    background-color: #85a6c6;
 }
 #works .works-box a .works-box-inner .button-readmore:hover
 {
@@ -323,11 +323,11 @@ section h2
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
-    background-color: #14c0c9;
+    background-color: #85a6c6;
 }
 #contact ul a:hover
 {
-    background-color: #0f949b;
+    background-color: #DBCEBF;
 }
 
 
@@ -335,6 +335,6 @@ footer
 {
     padding: 10px 0;
     text-align: center;
-    color: #fff;
-    background-color: #afdeca;
+    color: #ffffff;
+    background-color: #DBCEBF;
 }
